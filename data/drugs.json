@@ -1,0 +1,134 @@
+[
+  {
+    "id": "dc-001",
+    "name": "Verapimod",
+    "status": "Approved",
+    "description": "Selective JAK1 inhibitor for moderate-to-severe rheumatoid arthritis.",
+    "mechanismOfAction": "Competitive inhibition of Janus kinase 1, blocking downstream STAT phosphorylation and cytokine signaling.",
+    "sideEffects": ["Nausea", "Upper respiratory infection", "Headache", "Elevated liver enzymes"],
+    "indication": "Rheumatoid arthritis",
+    "developer": "Meridian Therapeutics",
+    "phase": "Marketed"
+  },
+  {
+    "id": "dc-002",
+    "name": "Solantrinib",
+    "status": "Phase III",
+    "description": "Oral BTK inhibitor under evaluation for relapsed/refractory mantle cell lymphoma.",
+    "mechanismOfAction": "Irreversible covalent binding to Bruton tyrosine kinase, blocking B-cell receptor signaling.",
+    "sideEffects": ["Fatigue", "Diarrhea", "Atrial fibrillation", "Bruising"],
+    "indication": "Mantle cell lymphoma",
+    "developer": "Halcyon Bio",
+    "phase": "Phase III"
+  },
+  {
+    "id": "dc-003",
+    "name": "Cerulastat",
+    "status": "In Development",
+    "description": "Novel amyloid-beta aggregation inhibitor for early Alzheimer's disease.",
+    "mechanismOfAction": "Small-molecule inhibitor that binds soluble amyloid-beta oligomers and prevents fibril formation.",
+    "sideEffects": ["Injection site reaction", "Mild dizziness", "ARIA-E (amyloid-related imaging abnormality)"],
+    "indication": "Alzheimer's disease",
+    "developer": "Neuronex Pharmaceuticals",
+    "phase": "Phase II"
+  },
+  {
+    "id": "dc-004",
+    "name": "Brivodelta",
+    "status": "Approved",
+    "description": "GLP-1 receptor agonist for glycemic control in type 2 diabetes.",
+    "mechanismOfAction": "Agonizes GLP-1 receptors, enhancing glucose-dependent insulin secretion and slowing gastric emptying.",
+    "sideEffects": ["Nausea", "Vomiting", "Pancreatitis (rare)", "Decreased appetite"],
+    "indication": "Type 2 diabetes mellitus",
+    "developer": "Aperture Biosciences",
+    "phase": "Marketed"
+  },
+  {
+    "id": "dc-005",
+    "name": "Trenovax",
+    "status": "In Development",
+    "description": "mRNA-based prophylactic vaccine candidate against RSV in older adults.",
+    "mechanismOfAction": "Lipid nanoparticle-encapsulated mRNA encoding pre-fusion RSV F protein, eliciting neutralizing antibodies.",
+    "sideEffects": ["Injection site pain", "Myalgia", "Fever", "Chills"],
+    "indication": "Respiratory syncytial virus (RSV)",
+    "developer": "Vectorial Vaccines",
+    "phase": "Phase II"
+  },
+  {
+    "id": "dc-006",
+    "name": "Omarigil",
+    "status": "Phase III",
+    "description": "PDE4 inhibitor for chronic obstructive pulmonary disease (COPD) exacerbation reduction.",
+    "mechanismOfAction": "Inhibits phosphodiesterase-4, increasing cAMP in inflammatory cells and reducing cytokine release.",
+    "sideEffects": ["Weight loss", "Diarrhea", "Insomnia", "Depressive symptoms"],
+    "indication": "COPD",
+    "developer": "Pulmorex Ltd.",
+    "phase": "Phase III"
+  },
+  {
+    "id": "dc-007",
+    "name": "Neladomide",
+    "status": "Discontinued",
+    "description": "KRAS G12C covalent inhibitor; program halted after interim efficacy analysis.",
+    "mechanismOfAction": "Covalently locks KRAS G12C in the GDP-bound inactive state, blocking MAPK pathway signaling.",
+    "sideEffects": ["Hepatotoxicity", "QT prolongation", "Anemia"],
+    "indication": "Non-small cell lung cancer",
+    "developer": "Oncogenix Partners",
+    "phase": "Terminated"
+  },
+  {
+    "id": "dc-008",
+    "name": "Falurestat",
+    "status": "Approved",
+    "description": "SGLT2 inhibitor indicated for heart failure with reduced ejection fraction.",
+    "mechanismOfAction": "Blocks sodium-glucose cotransporter 2 in proximal renal tubules, promoting glycosuria and natriuresis.",
+    "sideEffects": ["Genital mycotic infection", "Volume depletion", "Urinary tract infection"],
+    "indication": "Heart failure (HFrEF)",
+    "developer": "Cardionum Health",
+    "phase": "Marketed"
+  },
+  {
+    "id": "dc-009",
+    "name": "Ixenpril",
+    "status": "In Development",
+    "description": "Antisense oligonucleotide targeting PCSK9 for homozygous familial hypercholesterolemia.",
+    "mechanismOfAction": "RNase H-mediated degradation of PCSK9 mRNA, increasing hepatic LDL receptor expression.",
+    "sideEffects": ["Injection site erythema", "Flu-like symptoms", "Elevated hepatic transaminases"],
+    "indication": "Homozygous familial hypercholesterolemia",
+    "developer": "Heliora Genetics",
+    "phase": "Phase I/II"
+  },
+  {
+    "id": "dc-010",
+    "name": "Quasimodol",
+    "status": "Phase III",
+    "description": "IL-23 p19 monoclonal antibody for moderate-to-severe plaque psoriasis.",
+    "mechanismOfAction": "Selectively binds the p19 subunit of interleukin-23, inhibiting Th17 pathway activation.",
+    "sideEffects": ["Nasopharyngitis", "Injection site reaction", "Candida infection (rare)"],
+    "indication": "Plaque psoriasis",
+    "developer": "Dermavant Sciences",
+    "phase": "Phase III"
+  },
+  {
+    "id": "dc-011",
+    "name": "Renastatin",
+    "status": "In Development",
+    "description": "Orally bioavailable NLRP3 inflammasome inhibitor for gout flares and cryopyrin-associated syndromes.",
+    "mechanismOfAction": "Binds the NACHT domain of NLRP3, preventing inflammasome assembly and IL-1β maturation.",
+    "sideEffects": ["Abdominal discomfort", "Neutropenia", "Headache"],
+    "indication": "Gout",
+    "developer": "InflammaGenix",
+    "phase": "Phase I"
+  },
+  {
+    "id": "dc-012",
+    "name": "Valocorin",
+    "status": "Approved",
+    "description": "Factor Xa inhibitor for prevention of stroke and systemic embolism in atrial fibrillation.",
+    "mechanismOfAction": "Direct, reversible inhibition of activated factor X, reducing thrombin generation.",
+    "sideEffects": ["Bleeding", "Anemia", "Peripheral edema"],
+    "indication": "Non-valvular atrial fibrillation",
+    "developer": "Meridian Therapeutics",
+    "phase": "Marketed"
+  }
+]
