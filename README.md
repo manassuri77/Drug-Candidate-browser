@@ -65,3 +65,9 @@ Features supported:
 ## Testing
 
 `__tests__/drugs.test.ts` covers the data layer: pagination, case-insensitive search, status filtering, combined filters, page clamping, detail lookup, and status enumeration.
+
+## Screenshots
+<img width="1920" height="1155" alt="image" src="https://github.com/user-attachments/assets/d519da06-0810-4d34-a2b0-0ef8bd317808" />
+<img width="1920" height="1143" alt="image" src="https://github.com/user-attachments/assets/ea38e065-8d0a-4508-b765-6bfec4fa3003" />
+<img width="1346" height="802" alt="Screenshot 2026-10-15 at 15 51 58" src="https://github.com/user-attachments/assets/7f0f44f2-c7d4-43ba-b623-0977e82e628c" />
+<img width="2990" height="1818" alt="image" src="https://github.com/user-attachments/assets/702169d0-1da6-4757-a873-61576df4c71c" />
